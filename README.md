@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, here is aquuuu-an.
 
 <!--
 **aquuuu-an/aquuuu-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+--------
+
+![aquuuu-an's github stats](https://github-readme-stats.vercel.app/api?username=aquuuu-an&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquuuu-an&layout=compact&theme=tokyonight)](https://github.com/aquuuu-an)
